@@ -1,0 +1,20 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\marsh\Documents\LTspice\nand1.net
+Start Time: Wed Mar 12 21:56:21 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node a is floating.
+WARNING: Node b is floating.
+WARNING: Node n002 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.180 seconds.
+
+Files loaded:
+C:\Users\marsh\Documents\LTspice\nand1.net
+C:\Users\marsh\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\marsh\Downloads\cmosedu_models.txt
+

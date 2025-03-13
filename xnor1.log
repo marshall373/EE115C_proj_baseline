@@ -1,0 +1,16 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\marsh\Documents\LTspice\xnor1.net
+Start Time: Wed Mar 12 23:32:12 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.221 seconds.
+
+Files loaded:
+C:\Users\marsh\Documents\LTspice\xnor1.net
+C:\Users\marsh\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\marsh\Downloads\cmosedu_models.txt
+

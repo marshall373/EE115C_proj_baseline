@@ -1,0 +1,14 @@
+Version 4
+SymbolType BLOCK
+ARC Normal 0 -48 16 16 8 16 8 -48
+ARC Normal 12 -48 28 16 20 16 20 -48
+ARC Normal -39 -48 83 16 21 16 21 -48
+PIN 16 -32 RIGHT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN 16 0 RIGHT 8
+PINATTR PinName B
+PINATTR SpiceOrder 2
+PIN 80 -16 LEFT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 3
